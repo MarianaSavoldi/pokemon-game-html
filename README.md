@@ -1,1 +1,1 @@
-# Projeto base para o curso
+# Pokémon Game [HTML / JS / CSS]
